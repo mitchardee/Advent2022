@@ -1,0 +1,4 @@
+1873
+./input.txt part1
+2425
+./input.txt <function part2 at 0x1047ce950>
